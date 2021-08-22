@@ -1,0 +1,62 @@
+13:38:10.017 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+13:43:10.033 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+13:48:10.047 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+13:53:10.061 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+13:58:10.083 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+14:03:10.094 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+14:08:10.099 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+14:13:10.114 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+14:18:10.131 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+14:23:10.135 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+14:28:10.146 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+14:33:10.151 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+14:38:10.160 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+14:39:39.612 INFO  org.springframework.boot.StartupInfoLogger (main) [c.j.b.d.s.DepartmentServiceTest] -- Starting DepartmentServiceTest using Java 1.8.0_301 on Brijesh with PID 9700 (started by Brijesh in C:\Users\Brijesh\Downloads\department-service)
+14:39:39.617 INFO  org.springframework.boot.SpringApplication (main) [c.j.b.d.s.DepartmentServiceTest] -- No active profile set, falling back to default profiles: default
+14:39:40.733 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (main) [o.s.d.r.c.RepositoryConfigurationDelegate] -- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+14:39:40.947 INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate (main) [o.s.d.r.c.RepositoryConfigurationDelegate] -- Finished Spring Data repository scanning in 201 ms. Found 1 JPA repository interfaces.
+14:39:41.446 INFO  org.springframework.cloud.context.scope.GenericScope (main) [o.s.cloud.context.scope.GenericScope] -- BeanFactory id=0921bf97-86f2-3e4f-b4ec-7a2b8112fc75
+14:39:42.737 INFO  org.hibernate.jpa.internal.util.LogHelper (main) [o.h.jpa.internal.util.LogHelper] -- HHH000204: Processing PersistenceUnitInfo [name: default]
+14:39:42.815 INFO  org.hibernate.Version (main) [org.hibernate.Version] -- HHH000412: Hibernate ORM core version 5.4.32.Final
+14:39:42.864 INFO  org.hibernate.annotations.common.reflection.java.JavaReflectionManager (main) [o.h.annotations.common.Version] -- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+14:39:43.121 INFO  com.zaxxer.hikari.HikariDataSource (main) [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Starting...
+14:39:43.126 WARN  com.zaxxer.hikari.util.DriverDataSource (main) [c.z.hikari.util.DriverDataSource] -- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+14:39:43.834 INFO  com.zaxxer.hikari.HikariDataSource (main) [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Start completed.
+14:39:43.868 INFO  org.hibernate.dialect.Dialect (main) [org.hibernate.dialect.Dialect] -- HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+14:39:44.683 INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator (main) [o.h.e.t.j.p.i.JtaPlatformInitiator] -- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+14:39:44.694 INFO  org.springframework.orm.jpa.AbstractEntityManagerFactoryBean (main) [o.s.o.j.LocalContainerEntityManagerFactoryBean] -- Initialized JPA EntityManagerFactory for persistence unit 'default'
+14:39:45.297 WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration (main) [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration] -- spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+14:39:46.917 INFO  org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration (main) [o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration] -- Eureka HTTP Client uses RestTemplate.
+14:39:48.175 WARN  org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration (main) [o.s.c.s.a.z.ZipkinAutoConfiguration] -- Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": connect timed out; nested exception is java.net.SocketTimeoutException: connect timed out}]
+14:39:48.798 WARN  org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger (main) [o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger] -- Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+14:39:48.979 INFO  org.springframework.cloud.netflix.eureka.InstanceInfoFactory (main) [o.s.c.n.eureka.InstanceInfoFactory] -- Setting initial instance status as: STARTING
+14:39:49.078 INFO  com.netflix.discovery.DiscoveryClient (main) [c.netflix.discovery.DiscoveryClient] -- Initializing Eureka in region us-east-1
+14:39:49.092 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (main) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+14:39:49.144 INFO  com.netflix.discovery.DiscoveryClient (main) [c.netflix.discovery.DiscoveryClient] -- Disable delta property : false
+14:39:49.147 INFO  com.netflix.discovery.DiscoveryClient (main) [c.netflix.discovery.DiscoveryClient] -- Single vip registry refresh property : null
+14:39:49.148 INFO  com.netflix.discovery.DiscoveryClient (main) [c.netflix.discovery.DiscoveryClient] -- Force full registry fetch : false
+14:39:49.152 INFO  com.netflix.discovery.DiscoveryClient (main) [c.netflix.discovery.DiscoveryClient] -- Application is null : false
+14:39:49.153 INFO  com.netflix.discovery.DiscoveryClient (main) [c.netflix.discovery.DiscoveryClient] -- Registered Applications size is zero : true
+14:39:49.153 INFO  com.netflix.discovery.DiscoveryClient (main) [c.netflix.discovery.DiscoveryClient] -- Application version is -1: true
+14:39:49.153 INFO  com.netflix.discovery.DiscoveryClient (main) [c.netflix.discovery.DiscoveryClient] -- Getting all instance registry info from the eureka server
+14:39:49.478 INFO  com.netflix.discovery.DiscoveryClient (main) [c.netflix.discovery.DiscoveryClient] -- The response status is 200
+14:39:49.481 INFO  com.netflix.discovery.DiscoveryClient (main) [c.netflix.discovery.DiscoveryClient] -- Starting heartbeat executor: renew interval is: 30
+14:39:49.486 INFO  com.netflix.discovery.InstanceInfoReplicator (main) [c.n.discovery.InstanceInfoReplicator] -- InstanceInfoReplicator onDemand update allowed rate per min is 4
+14:39:49.492 INFO  com.netflix.discovery.DiscoveryClient (main) [c.netflix.discovery.DiscoveryClient] -- Discovery Client initialized at timestamp 1629536989491 with initial instances count: 3
+14:39:49.508 INFO  org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry (main) [o.s.c.n.e.s.EurekaServiceRegistry] -- Registering application DEPARTMENT-SERVICE with eureka with status UP
+14:39:49.509 INFO  com.netflix.discovery.DiscoveryClient$3 (main) [c.netflix.discovery.DiscoveryClient] -- Saw local status change event StatusChangeEvent [timestamp=1629536989509, current=UP, previous=STARTING]
+14:39:49.512 INFO  com.netflix.discovery.DiscoveryClient (DiscoveryClient-InstanceInfoReplicator-0) [c.netflix.discovery.DiscoveryClient] -- DiscoveryClient_DEPARTMENT-SERVICE/Brijesh:DEPARTMENT-SERVICE:9001: registering service...
+14:39:49.540 INFO  org.springframework.boot.StartupInfoLogger (main) [c.j.b.d.s.DepartmentServiceTest] -- Started DepartmentServiceTest in 10.532 seconds (JVM running for 12.033)
+14:39:49.579 INFO  com.netflix.discovery.DiscoveryClient (DiscoveryClient-InstanceInfoReplicator-0) [c.netflix.discovery.DiscoveryClient] -- DiscoveryClient_DEPARTMENT-SERVICE/Brijesh:DEPARTMENT-SERVICE:9001 - registration status: 204
+14:43:06.525 INFO  org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry (SpringContextShutdownHook) [o.s.c.n.e.s.EurekaServiceRegistry] -- Unregistering application DEPARTMENT-SERVICE with eureka with status DOWN
+14:43:06.528 INFO  com.netflix.discovery.DiscoveryClient$3 (SpringContextShutdownHook) [c.netflix.discovery.DiscoveryClient] -- Saw local status change event StatusChangeEvent [timestamp=1629537186528, current=DOWN, previous=UP]
+14:43:06.528 INFO  com.netflix.discovery.DiscoveryClient (DiscoveryClient-InstanceInfoReplicator-0) [c.netflix.discovery.DiscoveryClient] -- DiscoveryClient_DEPARTMENT-SERVICE/Brijesh:DEPARTMENT-SERVICE:9001: registering service...
+14:43:06.550 INFO  com.netflix.discovery.DiscoveryClient (DiscoveryClient-InstanceInfoReplicator-0) [c.netflix.discovery.DiscoveryClient] -- DiscoveryClient_DEPARTMENT-SERVICE/Brijesh:DEPARTMENT-SERVICE:9001 - registration status: 204
+14:43:07.543 INFO  org.springframework.orm.jpa.AbstractEntityManagerFactoryBean (SpringContextShutdownHook) [o.s.o.j.LocalContainerEntityManagerFactoryBean] -- Closing JPA EntityManagerFactory for persistence unit 'default'
+14:43:07.550 INFO  com.zaxxer.hikari.HikariDataSource (SpringContextShutdownHook) [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown initiated...
+14:43:07.567 INFO  com.zaxxer.hikari.HikariDataSource (SpringContextShutdownHook) [com.zaxxer.hikari.HikariDataSource] -- HikariPool-1 - Shutdown completed.
+14:43:07.570 INFO  com.netflix.discovery.DiscoveryClient (SpringContextShutdownHook) [c.netflix.discovery.DiscoveryClient] -- Shutting down DiscoveryClient ...
+14:43:10.170 INFO  com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver (AsyncResolver-bootstrap-executor-0) [c.n.d.s.r.aws.ConfigClusterResolver] -- Resolving eureka endpoints via configuration
+14:43:10.579 INFO  com.netflix.discovery.DiscoveryClient (SpringContextShutdownHook) [c.netflix.discovery.DiscoveryClient] -- Unregistering ...
+14:43:10.594 INFO  com.netflix.discovery.DiscoveryClient (SpringContextShutdownHook) [c.netflix.discovery.DiscoveryClient] -- DiscoveryClient_DEPARTMENT-SERVICE/Brijesh:DEPARTMENT-SERVICE:9001 - deregister  status: 200
+14:43:10.600 INFO  com.netflix.discovery.DiscoveryClient (SpringContextShutdownHook) [c.netflix.discovery.DiscoveryClient] -- Completed shut down of DiscoveryClient

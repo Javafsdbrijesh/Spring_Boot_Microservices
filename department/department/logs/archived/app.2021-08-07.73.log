@@ -1,0 +1,28 @@
+12:45:35.084 INFO  org.springframework.orm.jpa.AbstractEntityManagerFactoryBean (SpringApplicationShutdownHook) [o.s.o.j.LocalContainerEntityManagerFactoryBean] -- Closing JPA EntityManagerFactory for persistence unit 'default'
+13:13:05.677 INFO  org.springframework.boot.StartupInfoLogger (main) [c.j.d.c.DepartmentControllerTest] -- Starting DepartmentControllerTest using Java 1.8.0_292 on Regiment’s-MacBook-Pro with PID 6727 (started by mohsin.k_js in /Users/mohsin.k_js/Downloads/department)
+13:13:05.681 INFO  org.springframework.boot.SpringApplication (main) [c.j.d.c.DepartmentControllerTest] -- No active profile set, falling back to default profiles: default
+13:13:07.621 INFO  org.springframework.mock.web.MockServletContext (main) [o.s.b.t.m.w.SpringBootMockServletContext] -- Initializing Spring TestDispatcherServlet ''
+13:13:07.621 INFO  org.springframework.web.servlet.FrameworkServlet (main) [o.s.t.w.s.TestDispatcherServlet] -- Initializing Servlet ''
+13:13:07.623 INFO  org.springframework.web.servlet.FrameworkServlet (main) [o.s.t.w.s.TestDispatcherServlet] -- Completed initialization in 2 ms
+13:13:07.654 INFO  org.springframework.boot.StartupInfoLogger (main) [c.j.d.c.DepartmentControllerTest] -- Started DepartmentControllerTest in 2.429 seconds (JVM running for 3.659)
+13:14:17.768 INFO  org.springframework.boot.StartupInfoLogger (main) [c.j.d.c.DepartmentControllerTest] -- Starting DepartmentControllerTest using Java 1.8.0_292 on Regiment’s-MacBook-Pro with PID 6737 (started by mohsin.k_js in /Users/mohsin.k_js/Downloads/department)
+13:14:17.771 INFO  org.springframework.boot.SpringApplication (main) [c.j.d.c.DepartmentControllerTest] -- No active profile set, falling back to default profiles: default
+13:14:19.691 INFO  org.springframework.mock.web.MockServletContext (main) [o.s.b.t.m.w.SpringBootMockServletContext] -- Initializing Spring TestDispatcherServlet ''
+13:14:19.691 INFO  org.springframework.web.servlet.FrameworkServlet (main) [o.s.t.w.s.TestDispatcherServlet] -- Initializing Servlet ''
+13:14:19.692 INFO  org.springframework.web.servlet.FrameworkServlet (main) [o.s.t.w.s.TestDispatcherServlet] -- Completed initialization in 1 ms
+13:14:19.721 INFO  org.springframework.boot.StartupInfoLogger (main) [c.j.d.c.DepartmentControllerTest] -- Started DepartmentControllerTest in 2.41 seconds (JVM running for 3.668)
+13:14:19.945 INFO  com.javafsd.department.controller.DepartmentController (main) [c.j.d.c.DepartmentController] -- inside save department method
+13:14:31.191 INFO  org.springframework.boot.StartupInfoLogger (main) [c.j.d.c.DepartmentControllerTest] -- Starting DepartmentControllerTest using Java 1.8.0_292 on Regiment’s-MacBook-Pro with PID 6740 (started by mohsin.k_js in /Users/mohsin.k_js/Downloads/department)
+13:14:31.196 INFO  org.springframework.boot.SpringApplication (main) [c.j.d.c.DepartmentControllerTest] -- No active profile set, falling back to default profiles: default
+13:14:33.843 INFO  org.springframework.mock.web.MockServletContext (main) [o.s.b.t.m.w.SpringBootMockServletContext] -- Initializing Spring TestDispatcherServlet ''
+13:14:33.844 INFO  org.springframework.web.servlet.FrameworkServlet (main) [o.s.t.w.s.TestDispatcherServlet] -- Initializing Servlet ''
+13:14:33.846 INFO  org.springframework.web.servlet.FrameworkServlet (main) [o.s.t.w.s.TestDispatcherServlet] -- Completed initialization in 2 ms
+13:14:33.887 INFO  org.springframework.boot.StartupInfoLogger (main) [c.j.d.c.DepartmentControllerTest] -- Started DepartmentControllerTest in 3.492 seconds (JVM running for 5.669)
+13:14:34.185 INFO  com.javafsd.department.controller.DepartmentController (main) [c.j.d.c.DepartmentController] -- inside save department method
+13:16:17.381 INFO  org.springframework.boot.StartupInfoLogger (main) [c.j.d.c.DepartmentControllerTest] -- Starting DepartmentControllerTest using Java 1.8.0_292 on Regiment’s-MacBook-Pro with PID 6824 (started by mohsin.k_js in /Users/mohsin.k_js/Downloads/department)
+13:16:17.384 INFO  org.springframework.boot.SpringApplication (main) [c.j.d.c.DepartmentControllerTest] -- No active profile set, falling back to default profiles: default
+13:16:19.338 INFO  org.springframework.mock.web.MockServletContext (main) [o.s.b.t.m.w.SpringBootMockServletContext] -- Initializing Spring TestDispatcherServlet ''
+13:16:19.339 INFO  org.springframework.web.servlet.FrameworkServlet (main) [o.s.t.w.s.TestDispatcherServlet] -- Initializing Servlet ''
+13:16:19.340 INFO  org.springframework.web.servlet.FrameworkServlet (main) [o.s.t.w.s.TestDispatcherServlet] -- Completed initialization in 1 ms
+13:16:19.372 INFO  org.springframework.boot.StartupInfoLogger (main) [c.j.d.c.DepartmentControllerTest] -- Started DepartmentControllerTest in 2.449 seconds (JVM running for 3.57)
+13:16:19.608 INFO  com.javafsd.department.controller.DepartmentController (main) [c.j.d.c.DepartmentController] -- inside save department method
